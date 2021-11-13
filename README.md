@@ -19,6 +19,7 @@ Daripada disimpan di lokal, sekalian saja di sini. Mungkin saja ada yang ikutan 
 
 - https://github.com/StevenBlack
 - https://github.com/AdguardTeam/AdGuardHome
+- https://github.com/ABPindo/indonesianadblockrules/
 
 ## OpenWrt
 
