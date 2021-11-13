@@ -13,8 +13,12 @@ Daripada disimpan di lokal, sekalian saja di sini. Mungkin saja ada yang ikutan 
 
 - https://github.com/ngoduykhanh/wireguard-ui
 - https://github.com/firezone/firezone
-- https://github.com/AdguardTeam/AdGuardHome - Ads Block
 - https://github.com/asciimoo/wuzz - HTTP Request
+
+## Ads
+
+- https://github.com/StevenBlack
+- https://github.com/AdguardTeam/AdGuardHome
 
 ## OpenWrt
 
