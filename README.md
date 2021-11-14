@@ -21,9 +21,14 @@ Daripada disimpan di lokal, sekalian saja di sini. Mungkin saja ada yang ikutan 
 
 ## System
 
+- https://github.com/flameshot-org/flameshot
 - https://github.com/ngoduykhanh/wireguard-ui
 - https://github.com/firezone/firezone
 - https://github.com/asciimoo/wuzz - HTTP Request
+
+### font
+
+- https://github.com/xz/fonts
 
 ## Android
 
@@ -49,6 +54,10 @@ Daripada disimpan di lokal, sekalian saja di sini. Mungkin saja ada yang ikutan 
 - https://github.com/go-gitea/gitea 
 
 ## Coding
+
+### Bash
+
+- https://github.com/google/zx
 
 ### NodeJS
 
