@@ -3,6 +3,8 @@ Koleksi Repository Yang di Pantau / Diikuti / Menarik - Istilah lain dari awesom
 
 Daripada disimpan di lokal, sekalian saja di sini. Mungkin saja ada yang ikutan memanfaatkan.
 
+[![Visits Badge](https://badges.pufler.dev/visits/banghasan/koleksi)](https://badges.pufler.dev) ![updates](https://badges.pufler.dev/updated/banghasan/koleksi)
+
 ## Server
 
 - https://github.com/caddyserver/caddy
@@ -20,6 +22,10 @@ Daripada disimpan di lokal, sekalian saja di sini. Mungkin saja ada yang ikutan 
 - https://github.com/StevenBlack
 - https://github.com/AdguardTeam/AdGuardHome
 - https://github.com/ABPindo/indonesianadblockrules/
+
+## Adnroid
+
+- https://github.com/Genymobile/scrcpy - tampilkan ke layar pc / laptop
 
 ## OpenWrt
 
