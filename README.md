@@ -40,7 +40,7 @@ Daripada disimpan di lokal, sekalian saja di sini. Mungkin saja ada yang ikutan 
 
 ### Domain
 
-- https://github.com/ialexs/trustpositif.kominfo.go.id/
+-  list blacklist dari `trustpositif.kominfo.go.id` -> buat repo sendiri saja nanti
 
 
 ### Engine
