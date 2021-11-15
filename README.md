@@ -13,6 +13,10 @@ Daripada disimpan di lokal, sekalian saja di sini. Mungkin saja ada yang ikutan 
 - https://localhost.run/
 - https://github.com/fatedier/frp/
 
+#### Other
+
+- https://github.com/yudai/gotty
+
 ### Web
 
 - https://github.com/caddyserver/caddy
