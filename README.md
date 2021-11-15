@@ -46,6 +46,7 @@ Daripada disimpan di lokal, sekalian saja di sini. Mungkin saja ada yang ikutan 
 
 ### Domain
 
+- https://sslip.io/
 -  list blacklist dari `trustpositif.kominfo.go.id` -> buat repo sendiri saja nanti
 
 
