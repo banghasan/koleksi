@@ -7,9 +7,17 @@ Daripada disimpan di lokal, sekalian saja di sini. Mungkin saja ada yang ikutan 
 
 ## Server
 
-- https://github.com/caddyserver/caddy
+### Tunneling
+
 - https://github.com/anderspitman/awesome-tunneling
-- https://github.com/fatedier/frp/ - tunneling mudah
+- https://localhost.run/
+- https://github.com/fatedier/frp/
+
+### Web
+
+- https://github.com/caddyserver/caddy
+- https://github.com/gohugoio/hugo
+- https://github.com/go-gitea/gitea 
 
 ### OpenWrt
 
@@ -48,12 +56,6 @@ Daripada disimpan di lokal, sekalian saja di sini. Mungkin saja ada yang ikutan 
 
 - https://sslip.io/
 -  list blacklist dari `trustpositif.kominfo.go.id` -> buat repo sendiri saja nanti
-
-
-### Engine
-
-- https://github.com/gohugoio/hugo
-- https://github.com/go-gitea/gitea 
 
 ## Coding
 
