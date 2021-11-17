@@ -39,6 +39,12 @@ Daripada disimpan di lokal, sekalian saja di sini. Mungkin saja ada yang ikutan 
 - https://github.com/firezone/firezone
 - https://github.com/asciimoo/wuzz - HTTP Request
 
+### Burner
+
+- https://github.com/pbatard/rufus (windows) http://rufus.ie
+- https://github.com/balena-io/etcher https://www.balena.io/etcher/
+- https://github.com/ventoy/Ventoy https://www.ventoy.net/ (mantul lah ini)
+
 ### Proxy
 
 - https://github.com/txthinking/brook
