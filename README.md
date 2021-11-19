@@ -66,6 +66,11 @@ Daripada disimpan di lokal, sekalian saja di sini. Mungkin saja ada yang ikutan 
 
 ## Website
 
+### Browser
+
+- https://github.com/bromite/bromite favorit untuk handphone
+- https://github.com/igorlogius/automate-click addon firefox
+
 ### Domain
 
 - https://sslip.io/
