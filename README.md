@@ -65,7 +65,8 @@ Daripada disimpan di lokal, sekalian saja di sini. Mungkin saja ada yang ikutan 
 - https://github.com/ABPindo/indonesianadblockrules/
 - https://github.com/0xERR0R/blocky/
 - https://github.com/nextdns/nextdns
-- https://github.com/ngoduykhanh/PowerDNS-Admin
+- https://github.com/ngoduykhanh/PowerDNS-Admin pake python
+- https://github.com/safing/portmaster/ --> super lengkap! bisa ngamati per aplikasi konek ke mana saja!
 
 ## Website
 
